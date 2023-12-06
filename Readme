@@ -1,0 +1,3 @@
+- This project utilized both IBCF and UBCF methods to recommend users with customized movie list. 
+- The end product is a ShinyR app that is user-friendly designed and interactive.
+- I utilized both library methods and self-written methods, achiving the same results, but the self-written ones require further performance optimizations as it is slower at giving the result.
